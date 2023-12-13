@@ -6,7 +6,8 @@ Welcome to the Instagram-like Platform Data Analysis Project! This project invol
 
 ## Top Objectives:
 
-#### 1.Oldest User Recognition: ##### We aim to recognize and reward the platform's oldest users. By identifying the five oldest users based on their registration dates, we acknowledge their loyalty and contribution to the platform.
+#### 1.Oldest User Recognition:
+We aim to recognize and reward the platform's oldest users. By identifying the five oldest users based on their registration dates, we acknowledge their loyalty and contribution to the platform.
 
 2.Engagement Strategy: In order to optimize engagement strategies, we identify users who have never posted any photos. These users could be targeted in an email ad campaign to re-engage and encourage them to share content.
 
