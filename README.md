@@ -15,22 +15,22 @@ In order to optimize engagement strategies, we identify users who have never pos
 #### 3. Contest Winner Determination: 
 Through analyzing likes on photos, we will determine the user who won a contest for receiving the most likes on a photo. This showcases the importance of user engagement and content popularity.
 
-#### 4.Average User Post Frequency:
+#### 4. Average User Post Frequency:
 By calculating the average number of posts per user, we offer insights into how often users typically share content, which can guide content strategies and user expectations.
 
-#### 5.Hashtag Insights: 
+#### 5. Hashtag Insights: 
 We help a brand identify the most frequently used hashtags by analyzing the tags associated with photos. This aids in selecting effective hashtags for their posts.
 
-#### 6.Bot Detection: 
+#### 6. Bot Detection: 
 Detecting potential bot activity is crucial for maintaining a healthy platform environment. By identifying users who have liked every single photo, we can flag potential bot accounts for further investigation.
 
-#### 7.Newest Joiners Insights: 
+#### 7. Newest Joiners Insights: 
 Recognizing the platform's newest members who joined in a specific month (May) allows us to highlight and welcome these users, fostering a sense of community.
 
-#### 8.Engaged and Multifaceted Users: 
+#### 8. Engaged and Multifaceted Users: 
 By identifying users whose usernames start with 'c' and end with a number, and who have both posted photos and liked content, we pinpoint engaged and active users who contribute to the platform's ecosystem.
 
-#### 9.Top Content Contributors: 
+#### 9. Top Content Contributors: 
 Demonstrating the top 30 usernames that have posted photos within a specific range (3 to 5 posts) showcases the most active content contributors, potentially sparking collaboration opportunities.
 
 ## Getting Started
